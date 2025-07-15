@@ -1,4 +1,4 @@
-# 🛒 Blinkit Sales Dashboard
+#  Blinkit Sales Dashboard
 
 A fully interactive **Excel dashboard** built to analyze sales, item types, outlet performance, and product attributes for Blinkit — India’s last-minute delivery app. The dashboard uses **Excel features** such as **Pivot Tables, Slicers, Navigation Buttons**, and custom formatting for a seamless user experience.
 
@@ -6,7 +6,7 @@ A fully interactive **Excel dashboard** built to analyze sales, item types, outl
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 This project visualizes key sales insights and metrics, helping stakeholders monitor trends across:
 
@@ -18,7 +18,7 @@ This project visualizes key sales insights and metrics, helping stakeholders mon
 
 ---
 
-## 🔧 Tools & Features Used
+##  Tools & Features Used
 
 - **Microsoft Excel**
 - **Pivot Tables**
@@ -29,7 +29,7 @@ This project visualizes key sales insights and metrics, helping stakeholders mon
 
 ---
 
-## 📌 Key Metrics
+##  Key Metrics
 
 | Metric              | Value        |
 |---------------------|--------------|
@@ -40,17 +40,17 @@ This project visualizes key sales insights and metrics, helping stakeholders mon
 
 ---
 
-## 📈 Visual Components
+## Visual Components
 
-- 📆 **Outlet Establishment** trend (2011–2022)
-- 🧁 **Fat Content Analysis** (donut & bar charts)
-- 🏬 **Outlet Size & Tier Comparison**
-- 🛒 **Sales by Supermarket Type**
-- 📦 **Item Type Breakdown by Revenue**
+-  **Outlet Establishment** trend (2011–2022)
+-  **Fat Content Analysis** (donut & bar charts)
+-  **Outlet Size & Tier Comparison**
+-  **Sales by Supermarket Type**
+-  **Item Type Breakdown by Revenue**
 
 ---
 
-## 🧠 Learning Outcomes
+##  Learning Outcomes
 
 - Built an end-to-end Excel BI dashboard
 - Applied advanced Excel functions for layout, filtering, and analysis
