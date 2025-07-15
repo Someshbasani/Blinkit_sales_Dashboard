@@ -2,7 +2,7 @@
 
 A fully interactive **Excel dashboard** built to analyze sales, item types, outlet performance, and product attributes for Blinkit — India’s last-minute delivery app. The dashboard uses **Excel features** such as **Pivot Tables, Slicers, Navigation Buttons**, and custom formatting for a seamless user experience.
 
-![Blinkit Dashboard](./blinkit_dashboard.png) <!-- Replace with actual image path -->
+![Blinkit Dashboard](Blinkit_dashboard.png) <!-- Replace with actual image path -->
 
 ---
 
